@@ -1,0 +1,42 @@
+{
+  "topological": {
+    "execution_time": 81920.0,
+    "spill_cost": 116240,
+    "memory_peak": 64264,
+    "fitness_score": 0.03892156808798255,
+    "pipeline_efficiency": 1.0,
+    "schedule_length": 1716
+  },
+  "greedy": {
+    "execution_time": 81920.0,
+    "spill_cost": 71472,
+    "memory_peak": 34678,
+    "fitness_score": 0.05633251216686769,
+    "pipeline_efficiency": 1.0,
+    "schedule_length": 1716
+  },
+  "ga_conservative": {
+    "execution_time": 81920.0,
+    "spill_cost": 112656,
+    "memory_peak": 60546,
+    "fitness_score": 0.03290052026168764,
+    "pipeline_efficiency": 1.0,
+    "schedule_length": 1716
+  },
+  "ga_balanced": {
+    "execution_time": 81920.0,
+    "spill_cost": 112048,
+    "memory_peak": 60252,
+    "fitness_score": 0.0400098805755625,
+    "pipeline_efficiency": 1.0,
+    "schedule_length": 1716
+  },
+  "ga_aggressive": {
+    "execution_time": 81920.0,
+    "spill_cost": 108304,
+    "memory_peak": 59142,
+    "fitness_score": 0.048293906181476456,
+    "pipeline_efficiency": 1.0,
+    "schedule_length": 1716
+  }
+}
