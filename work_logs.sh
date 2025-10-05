@@ -50,3 +50,7 @@ jupyter nbconvert --to script Q_3.ipynb --output Q3_optimization\
 : 1758723604:0;/home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/.venv/bin/python /home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/Q2/code/Q_2_view.py
 : 1758723615:0;/home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/.venv/bin/python /home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/Q_2_view.py
 : 1758723816:0;/home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/.venv/bin/python /home/lanshi/Documents/Projects/mathmodels-projects/2025-CPGMCM/code/Q2/code/Q_2_view.py
+: 1758802737:0;cd ..
+: 1758802993:0;git clone git@github.com:lanshi17/pest-detector.git -dev
+: 1758802997:0;git clone git@github.com:lanshi17/pest-detector.git --dev
+: 1758803000:0;git clone git@github.com:lanshi17/pest-detector.git 
